@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">iClocked</string>
+    <string name="login_button">Login</string>
+    <string name="register_button">Register Your Business</string>
+    <string name="help_button">Help</string>
+
+</resources>
